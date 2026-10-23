@@ -93,7 +93,7 @@ Business Problem-Solving
 Data-Driven Decision-Making
 
 **Screenshot**
-![Dashboard Preview]_()_
+![Dashboard Preview]_(https://github.com/dubeyrashmi253-png/Sales-Performance-Dashboard/blob/main/Sales%20Report%20Dashboard%20Page%202.png)_
 
 **Conclusion**
 
