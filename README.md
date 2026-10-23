@@ -12,7 +12,13 @@ It provides an overview of sales performance over time and across product catego
 
 **3. Tech Stack**
 
-Power BI: Data visualization, KPI reporting, and interactive dashboard development.
+• 📊 Power BI Desktop – Main data visualization platform used for report creation.
+
+• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+
+• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+
+• 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
 
 **4. Data Source**
 
@@ -85,6 +91,9 @@ Trend and Comparative Analysis
 Business Problem-Solving
 
 Data-Driven Decision-Making
+
+**Screenshot**
+![Dashboard Preview]_()_
 
 **Conclusion**
 
